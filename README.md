@@ -1,6 +1,5 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
 
 ℍ𝕚 ℝ𝕖𝕒𝕕𝕖𝕣𝕤 👋
 𝓜𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 𝓝𝓲𝓽𝓲𝓷.
@@ -20,6 +19,8 @@ Catch me on twitter.
 
 
 [![Twiiter](https://img.icons8.com/fluent/48/000000/twitter.png)](https://twitter.com/nitinmarale3640)
+
+
 
 <!--
 **nitinmarale/nitinmarale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
