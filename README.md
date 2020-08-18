@@ -15,7 +15,7 @@ I'm a developer, so I know how to create your website to run across devices usin
 Catch me on twitter
 [1]: http://www.twitter.com/nitinmarale3640
 
-Twiiter
+[![alt text][1.1]][1]
 
 <!--
 **nitinmarale/nitinmarale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
