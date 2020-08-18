@@ -1,5 +1,5 @@
 # Hello, Readers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-𝓜𝔂 𝓷𝓪𝓶𝓮 𝓲𝓼 𝓝𝓲𝓽𝓲𝓷.
+𝐌𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐍𝐢𝐭𝐢𝐧
 
 I'm a 𝓕𝓡𝓞𝓝𝓣𝓔𝓝𝓓 learner. I have a passion for web development and love❤️ to create websites for web and mobile devices.
 
