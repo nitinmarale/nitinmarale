@@ -13,8 +13,7 @@ I love designing websites and keep things as simple as possible. My goals is to 
 I'm a developer, so I know how to create your website to run across devices using the latest technologies available.
 
 Catch me on twitter
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[1]: http://www.twitter.com/nitinmarale3640
+http://i.imgur.com/tXSoThF.png http://www.twitter.com/nitinmarale3640
 
 Twiiter
 
